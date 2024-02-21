@@ -1,8 +1,9 @@
 ### Olá! Me chame de Ana :) 
-- 🌱 Estudando JavaScript, NodeJS, PHP
-- 👤 Cursando Análise e Desenvolvimento de Sistemas (2/3)
+- 🌱 Estudando JavaScript, NodeJS, PHP, Java, C, C# e Python
+- 👤 Cursando Análise e Desenvolvimento de Sistemas (3/3)
 - 🧩 HTML e CSS avançado
-- ⚙️ Estudante de redes, banco de dados, GIT e UX/UI nas horas vagas =) 
+- ⚙️ Estudante de redes, banco de dados, GIT e UX/UI nas horas vagas 
+- 🌙 Entusiasta de astrofísica, livros/quadrinhos, filmes e arte =)
   
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chiamulerw&show_icons=true&theme=transparent"/>
